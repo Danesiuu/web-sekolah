@@ -1,4 +1,4 @@
-# School Website
+# School Website yayayyay
 
 To access admin page, add url /admin. Example http://localhost/school-website/admin
 email : admin@mail.com
